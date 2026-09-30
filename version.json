@@ -1,7 +1,7 @@
 {
-  "version": 24,
-  "latest": "v24",
+  "version": 25,
+  "latest": "v25",
   "min_supported": 1,
-  "updated_at": "2026-09-30T15:32:29.061375Z",
-  "changelog": "TERYAQI Deleted 1 drugs in v24"
+  "updated_at": "2026-09-30T17:18:13.305261Z",
+  "changelog": "TERYAQI: Added 1 drugs in v25"
 }
