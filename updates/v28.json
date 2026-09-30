@@ -1,8 +1,14 @@
 [
   {
     "name": "anas",
-    "drugId": "a",
+    "drugId": "anas",
     "deleted": true,
-    "deleted_at": "2026-09-30T18:04:11.922163Z"
+    "deleted_at": "2026-09-30T18:05:09.860791Z"
+  },
+  {
+    "name": "anas",
+    "drugId": "",
+    "deleted": true,
+    "deleted_at": "2026-09-30T18:05:09.860825Z"
   }
 ]
