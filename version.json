@@ -1,6 +1,7 @@
 {
-  "version": 22,
-  "latest": "v22",
+  "version": 23,
+  "latest": "v23",
   "min_supported": 1,
-  "updated_at": "2026-05-13"
+  "updated_at": "2026-09-30T15:17:57.054509Z",
+  "changelog": "TERYAQI: Added 1 drugs in v23"
 }
