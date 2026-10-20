@@ -1,12 +1,8 @@
 [
   {
-    "drugId": "1792507285968",
     "name": "anas",
-    "searchKey": "anas",
-    "administration": "a",
-    "side_effects": "a",
-    "precautions": "a",
-    "created_at": "2026-10-20T17:41:25.968185",
-    "added_by": "super_master"
+    "drugId": "",
+    "deleted": true,
+    "deleted_at": "2026-10-20T14:43:03.081782Z"
   }
 ]
