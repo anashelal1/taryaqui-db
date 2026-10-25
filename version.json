@@ -1,7 +1,7 @@
 {
-  "version": 30,
-  "latest": "v30",
+  "version": 31,
+  "latest": "v31",
   "min_supported": 1,
-  "updated_at": "2026-10-24T22:49:54.335092Z",
-  "changelog": "TERYAQI Deleted 7 drugs in v30"
+  "updated_at": "2026-10-25T04:16:12.152306Z",
+  "changelog": "TERYAQI Deleted 1 drugs in v31"
 }
